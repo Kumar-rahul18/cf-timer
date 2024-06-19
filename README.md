@@ -19,10 +19,6 @@ A Google Chrome Extension to add a timer to practice speed problem solving on Co
 <img src='./images/browseraction.png' width="15%"/> 
 </p>
 
-## Whats new ?
-
-- Now you can set Custom Timer.
-
 ## Installation
 
 1. Download the repo as `.zip` and extract it.
