@@ -9,12 +9,7 @@
 </h1>
 A Google Chrome Extension to add a timer to practice speed problem solving on Codeforces.
 </div>
-<br>
-<p align="center">
 
-     
-    </a>
-</p>
 <br>
 
 ## Preview
