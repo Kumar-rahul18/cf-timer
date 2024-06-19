@@ -50,9 +50,4 @@ It can be disabled from Settings -> Extensions page.
 6. For already solved problems, timer will show a `Finished` message.
 7. For problems, you ran out of time, it will show a `Timed Out` message.
 
-## Development setup
-
-1. Fork it and clone as local repository.
-2. Follow installation, to start playing around.
-3. Start developing !
 
