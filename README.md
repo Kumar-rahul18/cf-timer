@@ -4,8 +4,6 @@
   <img src='./images/cftimer.png' width="25%" height="25%"/>   
   <br>
    
-    
-    </a>
   </p>
   
 </h1>
