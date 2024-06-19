@@ -9,7 +9,11 @@
 A Google Chrome Extension to add a timer to practice speed problem solving on Codeforces.
 </div>
 <br>
-
+<p align="center">
+    <a href="https://github.com/codeagni/codeforces-timer/blob/master/LICENSE" alt="License MIT">
+      <img src="https://img.shields.io/github/license/codeagni/codeforces-timer?color=success" />
+    </a>
+</p>
 <br>
 
 ## Preview
