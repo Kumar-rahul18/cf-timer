@@ -4,13 +4,17 @@
   <img src='./images/cftimer.png' width="25%" height="25%"/>   
   <br>
    
+    
+      <img src="https://img.shields.io/badge/Made%20by-Codeagni-orange?style=for-the-badge" />
+    </a>
   </p>
+  
 </h1>
 A Google Chrome Extension to add a timer to practice speed problem solving on Codeforces.
 </div>
 <br>
 <p align="center">
-    <a href="https://github.com/codeagni/codeforces-timer/blob/master/LICENSE" alt="License MIT">
+
       <img src="https://img.shields.io/github/license/codeagni/codeforces-timer?color=success" />
     </a>
 </p>
