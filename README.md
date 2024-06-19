@@ -5,7 +5,6 @@
   <br>
    
     
-      <img src="https://img.shields.io/badge/Made%20by-Codeagni-orange?style=for-the-badge" />
     </a>
   </p>
   
@@ -15,7 +14,7 @@ A Google Chrome Extension to add a timer to practice speed problem solving on Co
 <br>
 <p align="center">
 
-      <img src="https://img.shields.io/github/license/codeagni/codeforces-timer?color=success" />
+     
     </a>
 </p>
 <br>
